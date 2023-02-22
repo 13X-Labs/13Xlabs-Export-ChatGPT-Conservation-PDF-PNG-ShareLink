@@ -5,9 +5,6 @@ This tool is particularly useful for researchers, developers, and anyone who wan
 
 <br/>
 
-## Why did I build it
-When you want to share some of your chats, it's very difficult to snapshot the entire chat. This will add the functionality of exporting it to an image, a PDF file, or create a sharable link.
-
 ## How to install it
 
 ### Install to Chrome/Edge
