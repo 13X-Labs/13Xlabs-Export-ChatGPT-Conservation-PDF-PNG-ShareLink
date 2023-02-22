@@ -16,6 +16,9 @@ This tool is particularly useful for researchers, developers, and anyone who wan
 5. Click the `Load unpacked` button and select the directory where you unzipped the extension files.
 6. ChatGPT Export should now be installed and active on the ChatGPT website (https://chat.openai.com/chat).
 
+<br/><br/>
+![Button](images/step.png)
+<br/><br/>
 ## How to use it
 
 After chatting with ChatGPT, you will notice new buttons at the bottom of the page (next to "Try Again"):
