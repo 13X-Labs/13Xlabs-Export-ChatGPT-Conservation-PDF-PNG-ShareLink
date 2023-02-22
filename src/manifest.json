@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Export PNG, PDF & Share",
+  "description": "Download a PNG, PDF of your chat with ChatGPT By 13XLabs",
+  "version": "1.0.0",
+  "author": "13XLabs",
+  "icons": {
+    "48": "icons/48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": [
+        "scripts/html2canvas.min.js",
+        "scripts/jspdf.umd.min.js",
+        "content_script.js"
+      ]
+    }
+  ]
+}

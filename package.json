@@ -1,0 +1,26 @@
+{
+  "name": "chatgpt-export-extension",
+  "version": "1.0.0",
+  "description": "> A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link <br/>",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmcc3/ChatGPT-pdf.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "pdf",
+    "png",
+    "openai",
+    "gpt-3"
+  ],
+  "author": "13XLabs",
+  "license": "MIT",
+  "homepage": "https://github.com/rmcc3/ChatGPT-pdf#readme",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "jest-environment-jsdom": "^29.4.3"
+  }
+}
