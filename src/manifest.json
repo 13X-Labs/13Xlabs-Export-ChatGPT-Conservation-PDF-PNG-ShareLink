@@ -1,11 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT Export PNG, PDF & Share",
-  "description": "Download a PNG, PDF of your chat with ChatGPT By 13XLabs",
-  "version": "1.0.0",
+  "name": "13XLabs ChatGPT Extension",
+  "description": "ChatGPT Extensions by 13XLabs",
+  "version": "1.0.1",
   "author": "13XLabs",
   "icons": {
     "48": "icons/48.png"
+  },
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup/popup.html"
   },
   "content_scripts": [
     {
@@ -16,5 +20,6 @@
         "content_script.js"
       ]
     }
-  ]
+  ],
+  "options_page": "options/options.html"
 }

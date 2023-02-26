@@ -22,5 +22,8 @@
   "devDependencies": {
     "jest": "^29.4.3",
     "jest-environment-jsdom": "^29.4.3"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
