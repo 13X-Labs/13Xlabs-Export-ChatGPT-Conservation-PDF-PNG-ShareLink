@@ -1,7 +1,7 @@
 {
   "name": "13xlabs-chatgpt-extension",
   "version": "1.0.2",
-  "description": "A Chrome extension for downloading your ChatGPT history to PNG, PDF or creating a sharable link",
+  "description": "Easy tools 13Xlabs ChatGPT Extension",
   "scripts": {
     "test": "jest"
   },
