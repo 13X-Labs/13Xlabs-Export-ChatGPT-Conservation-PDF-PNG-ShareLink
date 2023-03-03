@@ -17,6 +17,10 @@ This tool is particularly useful for researchers, developers, and anyone who wan
 6. ChatGPT Export should now be installed and active on the ChatGPT website (https://chat.openai.com/chat).
 
 <br/><br/>
+![Button](images/browser.png)
+<br/><br/>
+
+<br/><br/>
 ![Button](images/step.png)
 <br/><br/>
 ## How to use it
@@ -31,6 +35,7 @@ Look for them at the bottom of the page:
 
 ## Roadmap
 - [X] Support Chrome
+- [X] Support All Page with ChatGPT Account or ChatGPT Account Plus
 
 ## Contribution
 Thank you Liad Yosef. I would like to express my sincere gratitude for your contribution to the open-source community by providing the MIT license for your work on Github.
